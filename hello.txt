@@ -1,20 +1,10 @@
-hello atguigu!2222222222
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!123456
+public class HelloWorld {
+
+	public static viod main(String[] args) {
+
+		System.out.println("Hello, world!");
+
+	}
+	
+
+}

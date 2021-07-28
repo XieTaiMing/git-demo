@@ -18,3 +18,16 @@ num.forEach(item => {
 	console.log(item);
 })
 123456789
+#include <stdio>
+
+int main () {
+
+	int a,b;
+
+	printf("please enter two numbers:")
+
+	scanf("%d%d", &a, &b);
+
+	return 0;
+
+}
